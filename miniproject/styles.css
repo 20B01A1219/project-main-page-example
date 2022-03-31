@@ -1,0 +1,38 @@
+body{
+    background-image: url("images/background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color : white;
+    font-family: cursive;
+    padding-left:  100px;
+}
+form{
+    padding-left: 100px;
+}
+form label{
+    color : whitesmoke;
+    font-size: 20px;
+}
+input{
+    width : 350px;
+    height : 20px;
+}
+.title{
+    color :#00FF7F;
+}
+button{
+    width : 150px;
+    height : 35px;
+    border : 1px solid white;
+    background-color: transparent;
+    color : white;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left : 75px;
+}
+button:hover{
+    background-color: white;
+    color : red;
+}
